@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+import scipy
 import scipy.io
 from scipy.io import wavfile
 #import parselmouth
