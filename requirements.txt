@@ -1,4 +1,4 @@
-praat-parselmouth
+scipy
 pandas
 numpy
 plotly
