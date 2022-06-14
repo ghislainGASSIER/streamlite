@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-from scipy.io import wavfile
-
 import scipy.io
+from scipy.io import wavfile
 #import parselmouth
 import numpy as np
 import streamlit as st
