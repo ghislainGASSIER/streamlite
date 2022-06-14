@@ -1,5 +1,6 @@
-
 from scipy.io import wavfile
+
+import scipy.io
 #import parselmouth
 import numpy as np
 import streamlit as st
